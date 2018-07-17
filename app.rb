@@ -10,8 +10,8 @@ get '/hometown'do
   "My hometown is LA"
 end
 
-get '/favsong'do
-  "My fav hiphop song is party monster by the Weeknd"
+get '/favorite-song'do
+  "My favorite song is party monster by the Weeknd"
 end
 
 end
